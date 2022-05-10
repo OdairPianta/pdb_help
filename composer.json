@@ -12,7 +12,7 @@
       "email": "odair.pianta@gmail.com"
     }
   ],
-  "homepage": "https://github.com/OdairPianta/pdb_help",
+  "homepage": "https://github.com/OdairPianta/pvalidator",
   "license": "MIT",
   "require": {
       "php": ">=7.4",
