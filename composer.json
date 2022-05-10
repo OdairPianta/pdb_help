@@ -1,0 +1,22 @@
+{
+  "name": "odairpianta/pdb_help",
+  "description": "Get db functions in Laravel",
+  "keywords": [
+    "php",
+    "odairpianta",
+    "Laravel"
+  ],
+  "authors": [
+    {
+      "name": "Odair Pianta",
+      "email": "odair.pianta@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/OdairPianta/pdb_help",
+  "license": "MIT",
+  "require": {
+      "php": ">=7.4",
+      "illuminate/support": "^6.3|^7.0|^8.0|^9.0",
+      "nesbot/carbon": "^2.58"
+  }
+}
